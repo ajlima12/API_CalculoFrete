@@ -6,5 +6,7 @@ public record Frete(
         String id,
         Pedido pedido,
         BigDecimal frete
+
+
 ){
 }

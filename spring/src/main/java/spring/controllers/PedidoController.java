@@ -7,6 +7,8 @@ import entities.Frete;
 import entities.PedidoStatus;
 import org.springframework.web.bind.annotation.*;
 import services.PedidoService;
+import jakarta.validation.Valid;
+
 
 import java.util.List;
 import java.util.UUID;
